@@ -2,23 +2,12 @@
 
 > upeth는 upbit 클론 코딩 프로젝트입니다 (22.02.27 - 22.04.28)
 
-## Project Stack
-
-### Client
-
-Client는 Next.js를 이용해서 프로젝트를 진행했습니다.<br>
-이 프로젝트에서는 여러가지 라이브러리와 기술들이 사용됩니다
-
-- JavaScript
-- React
-- React Query
-- MobX
-- Emotion
-- Next Auth
-- Highcharts
-
 https://upeth-client.vercel.app<br>
 이 프로젝트는 Vercel에 의해 배포되었습니다
+
+## Tech Stack
+
+`JavaScript` `React` `Next.js` `Emotion` `MobX` `React Query` `Next Auth` `vercel`
 
 ## Feature
 
@@ -42,6 +31,6 @@ NEXTAUTH_SECRET<br>
 
 ## Documentation
 
-| Title        |                             Link                             |
-| ------------ | :----------------------------------------------------------: |
-| Feature      |   https://github.com/royalbluee/upeth-client/wiki/Feature    |
+| Title   |                          Link                           |
+| ------- | :-----------------------------------------------------: |
+| Feature | https://github.com/royalbluec/upeth-client/wiki/Feature |
