@@ -60,9 +60,3 @@ npm run dev
 GITHUB_CLIENT_ID<br>
 GITHUB_CLIENT_SECRET<br>
 NEXTAUTH_SECRET<br>
-
-## Documentation
-
-| Title   |                          Link                           |
-| ------- | :-----------------------------------------------------: |
-| Feature | https://github.com/royalbluec/upeth-client/wiki/Feature |
